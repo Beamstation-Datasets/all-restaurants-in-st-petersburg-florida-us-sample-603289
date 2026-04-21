@@ -1,6 +1,6 @@
 # All Restaurants in St. Petersburg, Florida, US
 
-> Free BeamStation sample export with 71 rows and masked direct-contact fields.
+> Free BeamStation sample export with 49 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `603289` |
 | Location | St. Petersburg |
 | Category | Restaurants |
-| Full dataset size | 719 records |
-| Free sample size | 71 records (9.87%) |
-| Last export | 2026-04-14T14:22:32.087587+00:00 |
+| Full dataset size | 497 records |
+| Free sample size | 49 records (9.86%) |
+| Last export | 2026-04-21T15:29:21.070839+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-st-petersburg-florida-us-sample-603289/releases/download/sample-latest/beamstation_603289_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
