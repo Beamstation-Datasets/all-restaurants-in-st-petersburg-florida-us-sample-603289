@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c80f8654-9d9e-4f94-ab2f-f74def842f7f",
+  "export_job_id": "e532dbfd-5a87-4d4d-993a-1e1d8cf3432e",
   "id_short": 603289,
-  "published_at": "2026-04-28T19:53:26Z",
+  "published_at": "2026-05-06T19:15:21Z",
   "repo_name": "all-restaurants-in-st-petersburg-florida-us-sample-603289",
   "sample_asset_name": "beamstation_603289_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/603289/beamstation_603289_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 76,
-  "sample_sha256": "d164230b898a78dabe98b3c5eadfb4b18e1be0f96dc40a8147a44e71b1f9bc11",
-  "sample_size_bytes": 270619,
-  "total_records": 768
+  "sample_records": 81,
+  "sample_sha256": "5397047abe868bea744b3f2f6f0d0467cc81646f07f0d23f80c65f22be73d6c7",
+  "sample_size_bytes": 273138,
+  "total_records": 817
 }
